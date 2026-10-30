@@ -14,13 +14,13 @@ It works on Windows, macOS and Linux. Without an ElevenLabs key, transcription f
 
 ```powershell
 # Windows (PowerShell)
-git clone https://github.com/<ORG>/claude-super-video-skill $HOME\claude-super-video-skill
+git clone https://github.com/DMT-Repository-by-Hem-Chand/claude-super-video-skill $HOME\claude-super-video-skill
 & $HOME\claude-super-video-skill\install.ps1
 ```
 
 ```bash
 # macOS / Linux
-git clone https://github.com/<ORG>/claude-super-video-skill ~/claude-super-video-skill
+git clone https://github.com/DMT-Repository-by-Hem-Chand/claude-super-video-skill ~/claude-super-video-skill
 ~/claude-super-video-skill/install.sh
 ```
 
