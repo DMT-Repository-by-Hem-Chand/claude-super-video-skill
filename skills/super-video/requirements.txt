@@ -1,0 +1,7 @@
+requests
+numpy
+pillow
+librosa
+matplotlib
+# optional: local transcription when no ELEVENLABS_API_KEY
+# faster-whisper
